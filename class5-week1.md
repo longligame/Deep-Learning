@@ -24,7 +24,7 @@ $x^{<1>}$代表某个样本中的第一个单词
 <img width="1280" alt="notion" src="https://user-images.githubusercontent.com/41643043/57225414-dc6e2500-703e-11e9-9334-306eac8a9d33.png">
 
 
-$x^{<1>}$ 用词向量表示 `one-hot`编码
+`one-hot`编码 $x^{<1>}$
 
 <img width="1280" alt="notion2" src="https://user-images.githubusercontent.com/41643043/57225415-dc6e2500-703e-11e9-94db-41b6c076ce97.png">
 
