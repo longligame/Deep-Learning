@@ -114,7 +114,34 @@ $$y^{<1>}=g(W_{ya}a^{<1>}+b_y);\ sigmoid$$
 
 #### 1.8  带有神经网络的梯度消失
 
+ 梯度弥散
+
+
+命名实体识别（NER）：
+- 其目的是识别语料中人名、地名、组织机构名等命名实体，识别文本中具有特定意义的实体。
+- 它是自然语言处理实用化的重要内容，在信息提取、句法分析、机器翻译等应用领域中具有重要的基础性作用。
+
+
+梯度爆炸
+
+解决方法，
+
+
 #### 1.9  GRU 单元
+
+门控循环单元 `Gated Recurrent Unit`
+
+引入
+- 解决梯度弥散问题，保持长时记忆
+- 猫吃饱了例子
+
+C : memory cell
+
+$C^{<t>}= a^{<t>}$
+
+$\Gamma_u = $
+
+
 
 #### 1.10  长短期记忆（LSTM）
 
@@ -124,10 +151,9 @@ $$y^{<1>}=g(W_{ya}a^{<1>}+b_y);\ sigmoid$$
 
 
 
-nlp特殊token
-
-EOS:end of sentense
-UNK:unknown words
+语言模型的特殊`token`
+`EOS:end of sentensce`
+`UNK:unknown words`
 
 
 
