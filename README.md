@@ -3,9 +3,32 @@
 
 吴恩达大师的 `Deep Learning` 系列
 
+目前从后往前学
 
 &nbsp;
+## 插件
+github的markdown不支持公式, 安装下面的 chrome 安装插件，可以正常看markdown的公式
+
+[github with mathjax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
+
+&nbsp;
+## 课程
+
+第一课
+
+第二课
+
+第三课
+
+第四课
+
+
 第五课 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/week)
+
+
+
+
+
 &nbsp;
 ## 笔记
 
