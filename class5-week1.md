@@ -89,24 +89,45 @@ $$y^{<1>}=g(W_{ya}a^{<1>}+b_y);\ sigmoid$$
 
 
 
+#### 1.5  不同类型的循环神经网络
+
+`many to one`模型 (情感预测)
+
+<img width="1277" alt="many_to_one" src="https://user-images.githubusercontent.com/41643043/57264817-bb411f00-70a6-11e9-9b11-b612f087c70a.png">
+
+`one to many`模型
+
+<img width="1280" alt="one_to_many" src="https://user-images.githubusercontent.com/41643043/57264902-576b2600-70a7-11e9-8aad-19df26a4b422.png">
 
 
 
-1.5  不同类型的循环神经网络
+`summary`
 
-1.6  语言模型和序列生成
+<img width="1280" alt="summay" src="https://user-images.githubusercontent.com/41643043/57264931-808bb680-70a7-11e9-8764-f4f68580ec9f.png">
 
-1.7  对新序列采样
 
-1.8  带有神经网络的梯度消失
 
-1.9  GRU 单元
 
-1.10  长短期记忆（LSTM）
+#### 1.6  语言模型和序列生成
 
-1.11  双向神经网络
+#### 1.7  对新序列采样
 
-1.12  深层循环神经网络
+#### 1.8  带有神经网络的梯度消失
+
+#### 1.9  GRU 单元
+
+#### 1.10  长短期记忆（LSTM）
+
+#### 1.11  双向神经网络
+
+#### 1.12  深层循环神经网络
+
+
+
+nlp特殊token
+
+EOS:end of sentense
+UNK:unknown words
 
 
 
