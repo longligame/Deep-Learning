@@ -141,6 +141,13 @@ $C^{<t>}= a^{<t>}$
 
 $\Gamma_u = $
 
+`RNN` 单元
+<img width="451" alt="gru" src="https://user-images.githubusercontent.com/41643043/57342043-73d29580-716f-11e9-8632-85b00c37211d.png">
+
+
+
+
+
 
 
 #### 1.10  长短期记忆（LSTM）
