@@ -21,6 +21,27 @@
 
 4.6  前向和反向传播
 
-4.7  参数 VS 超参数
+### 4.7 参数 `VS` 超参数
 
-4.8  这和大脑有什么关系？
+**`Hyperparameters`定义**
+
+- `parameters control parameters(W&b)`
+- 决定最终的 $W\&b$ 的值
+
+
+**深度学习的超参数**
+- 学习率
+- 迭代次数
+- 隐层数
+- 隐层神经元个数
+- 激活函数
+- 冲量
+- `mini batch size`
+
+<img width="449" alt="hyperpara" src="https://user-images.githubusercontent.com/41643043/57420073-4271cc80-7238-11e9-95db-a7e218ca9c11.png">
+
+**应用深度学习**
+- 选择更多的超参数进行实验性的测试，选择最优值的超参数
+
+
+### 4.8  这和大脑有什么关系？
