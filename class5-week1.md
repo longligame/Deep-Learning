@@ -206,6 +206,8 @@ LSTM
 #### 1.12  深层循环神经网络
 
 
+<img width="1280" alt="deep_rnn_ex" src="https://user-images.githubusercontent.com/41643043/57819844-c984ee80-77bc-11e9-9eaf-0d6cbc638c00.png">
+
 
 语言模型的特殊`token`
 `EOS:end of sentensce`
