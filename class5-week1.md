@@ -149,13 +149,40 @@ $\Gamma_u = $
 `RNN` 单元
 <img width="451" alt="gru" src="https://user-images.githubusercontent.com/41643043/57342043-73d29580-716f-11e9-8632-85b00c37211d.png">
 
+**简化的`GRU`**
 
+<img width="447" alt="gru" src="https://user-images.githubusercontent.com/41643043/57817963-89ba0900-77b4-11e9-8c08-935aed5a21dc.png">
+
+
+**完整的`GRU`**
+- 基础上多了一个相关门，需要进一步拓展 `GRU`
+
+<img width="448" alt="full_gru" src="https://user-images.githubusercontent.com/41643043/57817965-8aeb3600-77b4-11e9-9bbb-d777672c1c8e.png">
 
 
 
 
 
 #### 1.10  长短期记忆（LSTM）
+
+<img width="1280" alt="lstm" src="https://user-images.githubusercontent.com/41643043/57818434-7445de80-77b6-11e9-89a1-95925cbc1c3a.png">
+
+
+<img width="1280" alt="lstm_pic" src="https://user-images.githubusercontent.com/41643043/57818436-75770b80-77b6-11e9-953a-b2541dafe543.png">
+
+
+
+补充学习
+
+[LSTM长短期记忆,GRU单元,双向RNN](https://www.bilibili.com/video/av48131435?from=search&seid=18039820066890376991)
+
+
+`clipping`
+- 梯度爆炸
+
+LSTM
+- 解决梯地弥散
+- 解决梯度消失所导致的句子长期依赖关系
 
 
 
@@ -164,6 +191,13 @@ $\Gamma_u = $
 
 
 #### 1.11  双向神经网络
+
+`BRNN: Bidirectional RNN`
+
+动机
+- 前向信息并不能完整获取信息，需要后面的信息
+
+<img width="447" alt="brnn" src="https://user-images.githubusercontent.com/41643043/57818806-36e25080-77b8-11e9-8d5b-bbafc26fc8bd.png">
 
 
 
