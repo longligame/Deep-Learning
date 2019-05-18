@@ -27,6 +27,13 @@
 
 ### 2.3  词嵌入的特性
 
+实现类比推理
+
+cosine similarity 
+
+<img width="449" alt="word_em" src="https://user-images.githubusercontent.com/41643043/57963959-5c5d8e80-795f-11e9-87ae-b11fef3664db.png">
+
+
 
 
 
@@ -39,6 +46,12 @@
 
 
 ### 2.5  学习词嵌入
+
+
+
+
+
+
 
 ### 2.6  Word2Vec
 
