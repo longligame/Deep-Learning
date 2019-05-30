@@ -73,14 +73,23 @@ High variance
 <img width="454" alt="lr_reg" src="https://user-images.githubusercontent.com/41643043/58601346-f22bde80-82ba-11e9-88f6-a599f1eec720.png">
 
 神经网络
+
 <img width="451" alt="nn_reg" src="https://user-images.githubusercontent.com/41643043/58601348-f35d0b80-82ba-11e9-94f2-2894f90d5de8.png">
 
-
-
+权重衰减`weight decay`
+- L2正则化
 
 
 
 ### 1.5  为什么正则化可以减少过拟合？
+
+
+
+
+
+
+
+
 
 ### 1.6  Dropout 正则化
 
