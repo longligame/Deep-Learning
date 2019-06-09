@@ -14,13 +14,16 @@
 
 ### 2.1  二分分类
 
-图片进入神经网络
+图片作为输入
 - 3通道也进行长向量非矩阵
 
 <img width="452" alt="pic_vec" src="https://user-images.githubusercontent.com/41643043/57415429-bb6c2680-722e-11e9-96f1-f9ec3f7c2dd0.png">
 
 
-- 之前的想法不对
+样本的矩阵表示
+- 和之前想法相反
+- m个样本矩阵大小 `n*m`
+- y的表示 `1*m`
 
 <img width="454" alt="notation" src="https://user-images.githubusercontent.com/41643043/57415428-bad39000-722e-11e9-9fa4-72dffb58c3ff.png">
 
@@ -30,7 +33,9 @@
 
 ### 2.2  `Logistic` 回归
 
-注意下notation
+激活函数 `sigmoid`
+- z无穷大时候，输出接近1
+- z无穷小时候，输出接近0
 
 <img width="449" alt="lr" src="https://user-images.githubusercontent.com/41643043/57415718-988e4200-722f-11e9-923a-b02e44293c1e.png">
 
@@ -38,14 +43,20 @@
 
 ### 2.3  logistic 回归损失函数
 
-损失函数
-- 单个样本来说，也叫 `error function`
+`ground truth` 事实
+- 也就是`y`
 
 
 
+损失函数与代价函数
+- 单个样本来说，也叫 `error function`，损失函数
+- 对于整个样本来说，目前都把损失函数叫代价函数
 
-代价函数
--  对于整个样本来说，目前都把损失函数叫位代价函数
+
+逻辑函数
+- 损失函数是`log`损失函数
+- 采用线性回归是非凸函数
+
 
 
 <img width="447" alt="lr_cost" src="https://user-images.githubusercontent.com/41643043/57415938-a6909280-7230-11e9-8e88-0a2237861318.png">
