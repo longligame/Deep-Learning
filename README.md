@@ -14,7 +14,7 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 &nbsp;
 ## 课程
 
-第一课
+第一课 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 第二课
 
