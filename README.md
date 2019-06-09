@@ -1,15 +1,17 @@
 # Deep Learning
 
 
-吴恩达大师的 `Deep Learning` 系列
+`DeepLearning.ai` 的 `Deep Learning` 系列，吴恩达老师主讲。
 
-目前从后往前学
+本打算从后往前学，结果卡在很多程序上，感觉有必要加强程序提交方面，所以开始从前向后学习。
+
 
 &nbsp;
 ## 插件
-github的markdown不支持公式, 安装下面的 chrome 安装插件，可以正常看markdown的公式
 
-[github with mathjax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
+`Github` 的 `markdown` 不支持 `math` 公式, 安装下面的 `chrome` 安装插件，可以正常看 `math` 的公式
+
+[Github with mathjax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
 
 &nbsp;
 ## 课程
