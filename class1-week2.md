@@ -109,7 +109,22 @@
 
 ### 2.11  向量化
 
+
+向量化优点
+- 采用`numpy`库代替`for loop`
+- 并行运算，速度快
+
+<img width="1279" alt="ver" src="https://user-images.githubusercontent.com/41643043/59234768-d6acc600-8c20-11e9-9014-797e0fe73ba3.png">
+
+
+
 ### 2.12  向量化的更多例子
+
+建议
+- 避免采用`for loop`进行计算
+- 如果一定进行`for loop`写法
+    - 寻找`numpy`内置的函数，看看能否替代
+
 
 ### 2.13  向量化 `Logistic` 回归
 
