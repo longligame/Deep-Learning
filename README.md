@@ -3,7 +3,11 @@
 
 `DeepLearning.ai` 的 `Deep Learning` 系列，吴恩达老师主讲。
 
+课程不允许 `homework` 和 `quiz` 代码放入 `github` ，所以我将作业私有化了。
+
 本打算从后往前学，结果卡在很多程序上，感觉有必要加强程序提交方面，所以开始从前向后学习。
+
+
 
 
 &nbsp;
