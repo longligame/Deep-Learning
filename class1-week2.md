@@ -123,25 +123,40 @@
 
 ### 2.8  计算图的导数计算
 
-反向传播计算
+##### 导数的反向传播
+<img width="453" alt="cg" src="https://user-images.githubusercontent.com/41643043/59558415-3f7eae80-9024-11e9-95be-fbcc540e4158.png">
 
 
-
-`python code : db = dJ/db`
+`python` 编程中`notice`
+- `db = dJ/db`
 
 
 ### 2.9  `Logistic` 回归中的梯度下降法
 
+
+<img width="450" alt="lr_gd" src="https://user-images.githubusercontent.com/41643043/59558486-bcf6ee80-9025-11e9-8350-8c1bcdeef9de.png">
+
+`notice`
+- 需要手工推导一遍
+
 ### 2.10  `M` 个样本的梯度下降
 
-### 2.11  向量化
 
+<img width="447" alt="m_sample" src="https://user-images.githubusercontent.com/41643043/59558600-78b91d80-9028-11e9-9220-c83aed54a568.png">
+
+向量化
+- `for loop` 的计算效率比较低
+- 未来大量样本需要更高效的计算
+
+
+
+### 2.11  向量化
 
 向量化优点
 - 采用`numpy`库代替`for loop`
 - 并行运算，速度快
 
-<img width="1279" alt="ver" src="https://user-images.githubusercontent.com/41643043/59234768-d6acc600-8c20-11e9-9014-797e0fe73ba3.png">
+<img width="500" alt="ver" src="https://user-images.githubusercontent.com/41643043/59234768-d6acc600-8c20-11e9-9014-797e0fe73ba3.png">
 
 
 
@@ -155,13 +170,23 @@
 
 ### 2.13  向量化 `Logistic` 回归
 
+
 ### 2.14  向量化 `Logistic` 回归的梯度输出
+
+
 
 ### 2.15  `Python` 中的广播
 
+
+
 ### 2.16  关于 `python/numpy` 向量的说明
 
+
+
+
 ### 2.17  `Jupyter/Ipython` 笔记本的快速指南
+
+
 
 ### 2.18 (选修) `Logistic` 损失函数的解释
 
