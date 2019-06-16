@@ -12,6 +12,16 @@
 本周重点内容，最后的极大似然估计推导逻辑回归的 `cost function` 
 
 
+### 2.0 逻辑回归的逻辑
+
+
+
+
+
+
+
+
+
 ### 2.1  二分分类
 
 图片作为输入
@@ -43,7 +53,7 @@
 
 ### 2.3  logistic 回归损失函数
 
-`ground truth` 事实
+`ground truth` 真实
 - 也就是`y`
 
 
@@ -67,12 +77,19 @@
 
 ### 2.4  梯度下降法
 
-注意左右，正导数和负导数
+##### 损失函数求最小值
+- 梯度下降法应用
+
+<img width="449" alt="cost_function" src="https://user-images.githubusercontent.com/41643043/59557903-620aca80-9018-11e9-941d-93f80a88156c.png">
 
 
-<img width="447" alt="gd" src="https://user-images.githubusercontent.com/41643043/57416213-d42a0b80-7231-11e9-848f-8d19a5b39b18.png">
 
+##### 梯度下降的更新
 
+注意损失函数曲线左右
+- 正导数和负导数，影响损失函数曲线
+
+<img width="447" alt="gd" src="https://user-images.githubusercontent.com/41643043/59557904-62a36100-9018-11e9-94c0-34856322358a.png">
 
 
 ### 2.5  导数
@@ -95,7 +112,10 @@
 
 ### 2.7  计算图
 
-了解概念就行了
+定义
+- 一点一点向后推导，不要跨越步骤
+- 了解概念就行了
+
 <img width="449" alt="comp_gr" src="https://user-images.githubusercontent.com/41643043/57416730-dc834600-7233-11e9-995f-31bf71d22339.png">
 
 
