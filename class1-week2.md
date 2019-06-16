@@ -120,7 +120,7 @@
 
 ### 2.12  向量化的更多例子
 
-建议
+编程建议
 - 避免采用`for loop`进行计算
 - 如果一定进行`for loop`写法
     - 寻找`numpy`内置的函数，看看能否替代
@@ -138,14 +138,14 @@
 
 ### 2.18 (选修) `Logistic` 损失函数的解释
 
-从概率角度 推导 损失函数？
+##### 从概率角度 推导 损失函数？
 
 
 <img width="446" alt="lr_1" src="https://user-images.githubusercontent.com/41643043/57416999-3d5f4e00-7235-11e9-8655-50a40c499504.png">
 
 
 
-最小化损失函数，就是最大化概率p
+最小化损失函数，就是最大化概率`p`
 
 <img width="447" alt="lr_costfun" src="https://user-images.githubusercontent.com/41643043/57417000-3df7e480-7235-11e9-840c-b0b05719a2c3.png">
 
