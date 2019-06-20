@@ -174,8 +174,21 @@
 ### 2.14  向量化 `Logistic` 回归的梯度输出
 
 
+<img width="500" alt="vect_logic" src="https://user-images.githubusercontent.com/41643043/59810432-b4f5c200-9337-11e9-8dea-a6ab0725e30e.png">
+
+
+
 
 ### 2.15  `Python` 中的广播
+
+<img width="500" alt="bc1" src="https://user-images.githubusercontent.com/41643043/59810785-6ea16280-9339-11e9-9913-1522dc8b10b5.png">
+
+
+<img width="500" alt="bc2" src="https://user-images.githubusercontent.com/41643043/59810786-6f39f900-9339-11e9-9c8d-61412ca58011.png">
+
+
+<img width="500" alt="bc3" src="https://user-images.githubusercontent.com/41643043/59810787-6f39f900-9339-11e9-9f5a-7a38bfc319f1.png">
+
 
 
 
