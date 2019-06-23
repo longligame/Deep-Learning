@@ -20,9 +20,9 @@
 
 第二课 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
-第三课
+第三课 [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
-第四课
+第四课 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 
 第五课 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/week)
