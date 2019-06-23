@@ -55,15 +55,15 @@
 ### 1.3  机器学习基础
 
 
-basic recipe for machine learning
+`basic recipe for machine learning`
 
 
-High bias (training data problem)
+ 高偏差`High bias (training data problem)`
 - bigger network
 - train longer
 - NN architect
 
-High variance
+高方差`High variance`
 - More data
 - 正则化
 - NN architect 
